@@ -1,0 +1,6 @@
+{
+  "name": "College FAQ Chatbot - NLP TF-IDF Assistant",
+  "description": "A smart NLP-based FAQ chatbot for college inquiries using TF-IDF vectorization and cosine similarity question matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

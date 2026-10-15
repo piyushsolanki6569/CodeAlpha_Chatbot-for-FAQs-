@@ -1,0 +1,333 @@
+[
+  {
+    "id": 1,
+    "category": "Admissions",
+    "question": "What are the admission requirements?",
+    "answer": "Applicants typically need a completed higher secondary school certificate (10+2 or equivalent) with minimum qualifying percentage, relevant subject prerequisites (e.g., Physics, Chemistry, and Mathematics for engineering), and valid entrance examination scorecards where applicable. (Sample illustrative requirements - please consult your college admissions brochure).",
+    "alternatives": [
+      "What eligibility criteria are required for admission?",
+      "What documents and qualifications do I need to get admitted?",
+      "What are the prerequisites for joining college courses?"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Admissions",
+    "question": "How can I apply for admission?",
+    "answer": "You can apply online via the college portal by registering an applicant account, filling out personal and academic credentials, uploading scanned documents, and submitting the non-refundable application fee. (Sample application procedure).",
+    "alternatives": [
+      "What is the admission application process?",
+      "How do I submit my college application form?",
+      "How do I apply for undergraduate or postgraduate admission?",
+      "Where can I find the admission form?"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Admissions",
+    "question": "What are the admission deadlines?",
+    "answer": "Admission deadlines depend on the academic cycle. Generally, early applications close in June, regular rounds continue through July, and spot admissions conclude by mid-August. Always verify the current academic calendar on the official college website. (Sample timeline).",
+    "alternatives": [
+      "When is the last date to submit the admission form?",
+      "What is the application deadline for the upcoming academic session?",
+      "Until when can I apply for admission?"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Academics",
+    "question": "Where can I find course information and syllabus details?",
+    "answer": "Detailed course curricula, semester-wise credit breakdown, elective offerings, and course syllabi are available under the 'Academics' tab of the student portal and can also be collected from the respective department dean's office. (Sample academic information).",
+    "alternatives": [
+      "What courses and degrees does the college offer?",
+      "How can I see the syllabus and subjects for my major?",
+      "Where is the curriculum catalog available?"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Fees",
+    "question": "What are the course fees and tuition structure?",
+    "answer": "Tuition fees vary by program and department (e.g., Engineering, Science, Arts, Management). Detailed semester-wise tuition, lab, library, and development fee breakdowns are listed in the official fee structure handbook available on the student finance portal. (Sample fee guide).",
+    "alternatives": [
+      "How much is the tuition fee per semester?",
+      "What is the total fee for undergraduate degree courses?",
+      "Where can I check the annual fee breakdown?"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Fees",
+    "question": "What fee payment methods are accepted?",
+    "answer": "Tuition and semester fees can be paid online through the student ERP portal via Net Banking, Debit/Credit Card, UPI, or through NEFT/RTGS bank transfer. Demand drafts submitted at the accounts counter are also accepted. (Sample payment options).",
+    "alternatives": [
+      "How can I pay my college fees online?",
+      "Can I pay semester fees via UPI or net banking?",
+      "What payment modes are supported by the college finance office?"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Fees",
+    "question": "What are the deadlines for fee payment and late fee policies?",
+    "answer": "Semester fees are generally due within the first two weeks of each semester. Late payments incur a progressive late fee surcharge after the scheduled grace period, after which portal access may be temporarily restricted. (Sample fee calendar).",
+    "alternatives": [
+      "When is the last date to pay the semester fee?",
+      "Is there a penalty or late fine for delayed fee payment?",
+      "What happens if I miss the college tuition due date?"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Financial Aid",
+    "question": "What scholarship opportunities and financial aid are available?",
+    "answer": "Merit-based scholarships, need-based fee concessions, government minority/reserved category schemes, and athletic excellence waivers are offered. Students can submit applications with supporting income and grade certificates to the Scholarship Office. (Sample aid info).",
+    "alternatives": [
+      "How do I apply for college scholarships?",
+      "Does the college offer fee waivers or financial assistance?",
+      "Are there merit-based or need-based scholarships for students?"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Campus Life",
+    "question": "Are hostel accommodations available on campus?",
+    "answer": "Yes, separate residential hostel buildings with dining facilities, study halls, and 24/7 security are available for male and female students. Accommodation is allocated on a first-come, first-served basis or by distance criteria during admissions. (Sample hostel overview).",
+    "alternatives": [
+      "How can I get a room in the college hostel?",
+      "Is student housing or dormitory facility provided?",
+      "Are hostel rooms available for outstation students?"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Campus Life",
+    "question": "What are the hostel and mess fees?",
+    "answer": "Hostel charges usually range between $1,200 and $2,500 (or regional equivalent) per academic year depending on room occupancy (single, double, or triple sharing) and whether AC or non-AC is chosen, including standard mess meal plans. (Sample hostel pricing).",
+    "alternatives": [
+      "How much do the dormitory and mess food cost per year?",
+      "What is the accommodation fee for staying in campus housing?",
+      "Are dining charges included in the hostel fee?"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Library",
+    "question": "What are the college library timings?",
+    "answer": "The central library is open Monday through Saturday from 8:00 AM to 9:00 PM. During midterm and final examination weeks, the reading lounge operates on an extended 24-hour schedule. (Sample library hours).",
+    "alternatives": [
+      "When does the library open and close?",
+      "What hours can students access the college library?",
+      "Is the library reading room open on weekends or late nights?"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Library",
+    "question": "How do I get a library membership and borrow books?",
+    "answer": "Your student identity card serves as your default digital library barcode. Present your ID card at the circulation counter or use the automated self-checkout kiosk to borrow up to four books for 14 days with renewal options. (Sample circulation guidelines).",
+    "alternatives": [
+      "How can I register for library book borrowing?",
+      "How many books can a student borrow from the library?",
+      "Can I use my student ID to check out library materials?"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Examinations",
+    "question": "When and where are examination schedules published?",
+    "answer": "Midterm and end-semester examination timetables are published 3 to 4 weeks before tests commence on the College Notice Board and the Examination Cell section of the student portal. (Sample exam notice).",
+    "alternatives": [
+      "Where can I download the semester exam timetable?",
+      "When will final exams be conducted this term?",
+      "How do I check my examination dates and hall tickets?"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Examinations",
+    "question": "How and when can I check my examination results and grades?",
+    "answer": "Semester examination results, Grade Point Averages (GPA), and Cumulative GPAs (CGPA) are declared within 4 to 6 weeks following exams and can be viewed securely using your student login credentials on the exam portal. (Sample grade release procedure).",
+    "alternatives": [
+      "Where can I see my semester exam results?",
+      "How do I view my GPA grade card or marksheet?",
+      "When will college semester marks be announced?"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Academics",
+    "question": "What is the minimum attendance requirement to appear for exams?",
+    "answer": "Students are required to maintain a minimum of 75% attendance in both lectures and laboratory sessions for each registered subject to be eligible for semester end examinations. Medical relaxations require official doctor documentation approved by the Dean. (Sample policy).",
+    "alternatives": [
+      "What percentage of attendance is mandatory?",
+      "Is 75 percent attendance compulsory to write exams?",
+      "What happens if my class attendance falls below the minimum limit?"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Academics",
+    "question": "Where can I view my daily class timetable and lecture schedule?",
+    "answer": "Class timetables, classroom locations, lab sessions, and faculty designations are updated each semester on the student ERP portal and displayed on departmental notice boards before the first week of classes. (Sample scheduling information).",
+    "alternatives": [
+      "How do I find my daily lecture schedule and room numbers?",
+      "Where is the semester class schedule posted?",
+      "How do I check what time my classes start?"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Student Services",
+    "question": "How do I get or replace my student ID card?",
+    "answer": "New students receive their official photo ID during orientation week. If lost or damaged, visit the Student Affairs Office, submit a replacement request form with a small reissuance fee, and collect your duplicate card within 48 hours. (Sample ID policy).",
+    "alternatives": [
+      "What is the procedure if I lose my college identity card?",
+      "How can I apply for a duplicate student ID card?",
+      "Where do I collect my campus identity badge?"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "IT Support",
+    "question": "How do I reset my student portal or campus account password?",
+    "answer": "Click 'Forgot Password' on the college portal login page to receive a secure recovery link via your registered personal email or mobile phone. You may also visit the IT Helpdesk with your student ID for on-the-spot password resets. (Sample IT support).",
+    "alternatives": [
+      "I forgot my portal password, how do I recover it?",
+      "How can I reset my student ERP account login?",
+      "Where do I go if my student portal login is locked?"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "IT Support",
+    "question": "How do I connect to the campus Wi-Fi network?",
+    "answer": "Connect your laptop or smartphone to the 'Campus-Secure' Wi-Fi SSID and sign in using your college student username and password when prompted. Devices require active WPA2/WPA3 enterprise authentication. (Sample wireless network guide).",
+    "alternatives": [
+      "What are the login details for college campus Wi-Fi?",
+      "How can students access internet Wi-Fi in classrooms and hostel?",
+      "Why is my device not connecting to the college wireless network?"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "IT Support",
+    "question": "How do I activate and access my official college email account?",
+    "answer": "Every student is assigned an institutional email (e.g., studentname@college.edu). Access it via Google Workspace or Microsoft 365 web login using your initial default credentials provided in your admission welcome packet. (Sample email instructions).",
+    "alternatives": [
+      "Where do I check my college student email inbox?",
+      "How do I set up my official institutional email address?",
+      "What is my college email format and login link?"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "Career",
+    "question": "How can I find internship opportunities through the college?",
+    "answer": "The Training and Placement Cell regularly posts vetted internship listings, industrial summer training drives, and research assistant opportunities on the Internship Portal and coordinates on-campus interview drives. (Sample internship assistance).",
+    "alternatives": [
+      "Does the college assist students with summer internships?",
+      "Where can I find student internship postings and industry projects?",
+      "How does the placement cell help with internships?"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "Career",
+    "question": "What placement assistance and campus recruitment services are provided?",
+    "answer": "The Career & Placement Center offers resume review workshops, mock coding and HR interviews, soft-skills training, and connects graduating students with visiting corporate recruiters across multiple industries. (Sample placement services).",
+    "alternatives": [
+      "How does campus placement work for final year students?",
+      "Which companies visit the college for campus recruitment?",
+      "What career support is available for job seekers?"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "Academics",
+    "question": "How can I contact my professors and find faculty office hours?",
+    "answer": "Faculty email addresses, office room numbers, and designated weekly consultation hours are listed in each course syllabus and published on the departmental directory page on the college website. (Sample faculty directory info).",
+    "alternatives": [
+      "Where can I find faculty email addresses and office locations?",
+      "How do I book an appointment with a professor?",
+      "When are professors available for student office hours?"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "Student Services",
+    "question": "What student support and mental health counseling services exist?",
+    "answer": "The Student Wellness Center offers free, confidential one-on-one psychological counseling, academic stress management workshops, accessibility accommodations for students with disabilities, and peer tutoring networks. (Sample counseling details).",
+    "alternatives": [
+      "Does the college provide mental health and counseling support?",
+      "Where can I find student guidance and disability accommodations?",
+      "Is there a psychological counselor or wellness cell on campus?"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "Campus Life",
+    "question": "What sports, fitness, and recreational campus facilities are available?",
+    "answer": "The campus features a multi-sport gymnasium, outdoor athletics track, football ground, basketball and tennis courts, indoor badminton arenas, cafeteria courts, and designated student activity club spaces. (Sample campus amenities).",
+    "alternatives": [
+      "Does the college have a gym and sports grounds?",
+      "What recreational facilities are open to enrolled students?",
+      "Where are the fitness centers and student club spaces located?"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "Campus Life",
+    "question": "Are college bus and transportation facilities available for commuters?",
+    "answer": "Yes, a fleet of college shuttle buses operates along designated arterial city routes during morning pickup and evening drop-off hours. Transport passes can be purchased per semester from the Transportation Desk. (Sample bus transportation).",
+    "alternatives": [
+      "How do I enroll for college bus services?",
+      "What are the shuttle bus routes and timings for daily commuters?",
+      "Is campus transportation provided for day scholars?"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "Academics",
+    "question": "How do I apply for medical leave or an official leave of absence?",
+    "answer": "Submit a Leave Application via the student portal under the 'Leave Management' module at least 24 hours in advance, or attach a valid medical certificate within 3 days of returning from an illness for approval by your faculty advisor. (Sample leave procedure).",
+    "alternatives": [
+      "What is the procedure for taking leave from college classes?",
+      "How do I submit a medical leave certificate?",
+      "Where can I submit an absence request form?"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "Academics",
+    "question": "How do I submit assignments and term projects?",
+    "answer": "Assignments are uploaded digitally via the course Learning Management System (LMS) before the stated cutoff timestamp. Plagiarism detection tools (like Turnitin) are integrated, so ensure all submitted work is original. (Sample assignment policy).",
+    "alternatives": [
+      "Where do I upload course homework and project reports?",
+      "How does the online assignment submission system work?",
+      "What happens if an assignment is submitted after the LMS due date?"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "Student Services",
+    "question": "How can I request official transcripts, bonafide letters, or degree certificates?",
+    "answer": "Official transcripts, bonafide enrollment certificates, and degree verification records can be ordered through the Registrar's Service portal. Standard processing takes 3 to 7 working days with tracked courier or digital delivery. (Sample transcript ordering).",
+    "alternatives": [
+      "How do I get an official academic transcript or bonafide certificate?",
+      "Where do I apply for character and degree certificates?",
+      "What is the processing time to receive verified college transcripts?"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "Administration",
+    "question": "How do I contact the college administration and general helpdesk?",
+    "answer": "You can reach the Central Administrative Office by emailing admin@college.edu, calling the main reception helpline during office hours (Monday to Friday, 9:00 AM - 5:00 PM), or visiting the One-Stop Student Service Center in the Administration Block. (Sample contact information).",
+    "alternatives": [
+      "What is the phone number and email address for college administration?",
+      "Where is the main administrative building and help desk located?",
+      "How do I submit an inquiry or grievance to university management?"
+    ]
+  }
+]
